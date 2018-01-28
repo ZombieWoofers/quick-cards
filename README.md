@@ -1,1 +1,3 @@
-# quick-cards
+I wanted to experiment with a simple flashcard UI but mainly one that allowed you to pull in your cards via .csv file from simple storage apps like Dropbox, Google Drive etc. I mainly use Dropbox but the idea is that I can modify the .csv file willy nilly and just be able to pull that data into the UI to study it. 
+
+I've also been experimenting with the native voice synthesizer in iOS so the cards can be read to you. This would be nice if you are driving and more importantly for me, to include native language voices for my language studies. I need to make a UI/protocol that lets you pick which language voice should be used but mainly this is just some fun prototyping.
